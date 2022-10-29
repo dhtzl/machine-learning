@@ -1,1 +1,1 @@
-# machine-learning
+# PTI411 - Machine Learning
