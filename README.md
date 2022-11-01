@@ -1,5 +1,6 @@
 # PTI411 - Machine Learning
 
+<<<<<<< HEAD
 - NumPy: Untuk pekerjaan apa pun dengan matriks, terutama operasi matematika
 
 - SciPy: Komputasi ilmiah dan teknis
@@ -11,6 +12,14 @@
 - Sympy: Matematika simbolik
 
 - Pandas: Penanganan, manipulasi, dan analisis data
+=======
+NumPy: Untuk pekerjaan apa pun dengan matriks, terutama operasi matematika
+SciPy: Komputasi ilmiah dan teknis
+Matplotlib: Visualisasi data
+IPython: Konsol interaktif untuk Python
+Sympy: Matematika simbolik
+Pandas: Penanganan, manipulasi, dan analisis data
+>>>>>>> 4bb4b9ec96ba0786491c06e5d67189527e5cd217
 
 NumPy adalah paket dasar untuk komputasi ilmiah dengan Python. Ini adalah pustaka Python yang menyediakan objek array multidimensi, berbagai objek turunan (seperti array dan matriks bertopeng), dan berbagai macam rutinitas untuk operasi cepat pada array, termasuk matematika, logika, manipulasi bentuk, pengurutan, pemilihan, I/O , transformasi Fourier diskrit, aljabar linier dasar, operasi statistik dasar, simulasi acak, dan banyak lagi.
 
@@ -20,6 +29,12 @@ Matplotlib adalah pustaka lengkap untuk membuat visualisasi statis, animasi, dan
 
 Seaborn adalah library untuk membuat grafik dan statistik dengan menggunakan Python. Library ini dibangun berdasarkan library Matplotlib yang sudah ada. Kemudian terintegrasi dengan struktur data pada Pandas.
 
+<<<<<<< HEAD
 https://www.kaggle.com/learn/pandas
 
 https://www.w3schools.com/
+=======
+
+https://www.kaggle.com/learn/pandas
+https://www.w3schools.com/
+>>>>>>> 4bb4b9ec96ba0786491c06e5d67189527e5cd217
