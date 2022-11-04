@@ -23,3 +23,5 @@
 - https://www.kaggle.com/learn/pandas
 
 - https://www.w3schools.com/
+
+- https://sinta.kemdikbud.go.id/
